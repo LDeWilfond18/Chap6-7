@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ld316338\desktop\c++\chap6-7\rnggame\rnggame\source.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RNGGame.vcxproj -> C:\Users\ld316338\Desktop\C++\Chap6-7\RNGGame\Debug\RNGGame.exe
